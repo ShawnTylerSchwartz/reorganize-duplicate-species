@@ -7,7 +7,7 @@
 You must place all fish images into the directory **/fish-to-reorganize**, with no subdirectories.
 
 **All filenames must follow the following Cowman Taxonomy File-naming Convention:**
-Family\_Genus\_species\_id.png"
+"_Family\_Genus\_species\_id.png_"
 
 #### Output File Structure
 Directories storing grouped duplicate species (binomial taxonomy) associated fish images will be named in the following convention:
