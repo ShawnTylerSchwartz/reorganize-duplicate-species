@@ -11,7 +11,7 @@ Family\_Genus\_species\_id.png"
 
 #### Output File Structure
 Directories storing grouped duplicate species (binomial taxonomy) associated fish images will be named in the following convention:
-/\_reorganized-output/Family\_Genus\_species/Family\_Genus\_species.png
+**/\_reorganized-output/Family\_Genus\_species/Family\_Genus\_species.png**
 
 ## Author
 
